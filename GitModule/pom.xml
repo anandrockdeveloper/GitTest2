@@ -2,11 +2,11 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.anand.test</groupId>
 	<artifactId>GitModule</artifactId>
-	<version>1.0.0</version>
+	<version>1.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 	<scm>
 		<developerConnection>scm:git:https://github.com/anandrockdeveloper/GitTest2.git</developerConnection>
-	  <tag>GitModule-1.0.0</tag>
+	  <tag>HEAD</tag>
   </scm>
 	<build>
 		<plugins>
